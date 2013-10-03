@@ -4,3 +4,6 @@
 *   [Solr for Node](https://github.com/lbdremy/solr-node-client)
 *   [Jekll + Lunr.js](https://github.com/slashdotdash/jekyll-lunr-js-search)
 *   [Lunr.js](http://lunrjs.com/)
+*   [Norch](http://blog.comperiosearch.com/blog/2013/07/05/norch-a-search-engine-for-node-js/)
+*   [sajari](http://www.sajari.com/)   
+  ** [jajari, sajari example](http://www.jojari.com/job-search/)
